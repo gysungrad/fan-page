@@ -1,0 +1,17 @@
+body {
+    background-color: yellow;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-decoration: underline;
+}
+
+img {
+    width: 400px;
+}
+
+blockquote {
+    font-style: italic;
+}
